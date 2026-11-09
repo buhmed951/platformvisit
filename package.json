@@ -1,0 +1,9 @@
+{
+  "name": "dhofar-opd-shared",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dhofar OPD attendee dashboard with a shared, PIN-protected upload store",
+  "scripts": { "dev": "node dev-server.js" },
+  "dependencies": { "@vercel/blob": "^1.0.0" },
+  "engines": { "node": ">=18" }
+}
